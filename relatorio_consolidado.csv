@@ -1,0 +1,4 @@
+ID,Cliente,Valor,Status
+101,Empresa A,1500.00,Ativo
+102,Empresa B,PENDENTE_REVISAO,Pendente
+103,Empresa C,3200.50,PENDENTE_REVISAO
